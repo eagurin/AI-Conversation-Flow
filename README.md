@@ -1,7 +1,5 @@
 # AI-Conversation-Flow
 
-Program for dialogue between the user and the voice assistant AI assistant.
-Implemented in Python using the grpc library.
 
 ## About
 
