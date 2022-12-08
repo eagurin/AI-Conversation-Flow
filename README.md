@@ -3,6 +3,12 @@
 Program for dialogue between the user and the voice assistant AI assistant.
 Implemented in Python using the grpc library.
 
+## About
+
+The program realizes a [conversation flow](https://www.acrwebsite.org/volumes/7030/volumes/v11/NA-11) with openAI-engine and telephony. 
+
+It is implemented in the form of a script based on the [Tinkoff STT](https://tinkoff.ru/developer/speechkit/) and [Tinkoff TTS](https://tinkoff.ru/developer/speechkit/) services.
+
 ## Dependencies
 
 - [Python 3.10](https://www.python.org/downloads/)
