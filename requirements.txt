@@ -1,0 +1,7 @@
+
+protobuf==3.20
+python-decouple
+tinkoff-voicekit-client
+PyAudio
+grpcio
+openai
